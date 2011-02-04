@@ -1,0 +1,27 @@
+<?php defined('SYSPATH') or die('No direct script access.');
+
+return array(
+	':field must contain only letters' => 'Значение поля :field должно содержать только буквы',
+	':field must contain only numbers, letters and dashes' => 'Значение поля :field должно содержать только цифры, буквы и тире',
+	':field must contain only letters and numbers' => 'Значение поля :field должно содержать только буквы и цифры',
+	':field must be a color' => 'Значение поля :field должно обозначать цвет',
+	':field must be a credit card number' => 'Значение поля :field должно содержать правильный номер кредитной карты',
+	':field must be a date' => 'Значение поля :field должно содержать дату',
+	':field must be a decimal with :param2 places' => 'Значение поля :field должно содержать десятичное число с коичеством знаков равным :param2',
+	':field must be a digit' => 'Значение поля :field должно содержать цифры',
+	':field must be a email address' => 'Значение поля :field должно содержать правильны email адрес',
+	':field must contain a valid email domain' => 'Значение поля :field должно содержать корректный email домен',
+	':field must equal :param2' => 'Значение поля :field должно быть равным :param2',
+	':field must be exactly :param2 characters long' => 'Значение поля :field должно содержать ровно :param2 знак(а,ов)',
+	':field must be one of the available options' => 'Значение поля :field должно быть из списка возможных значений',
+	':field must be an ip address'  => 'Значение поля :field должно быть правильным ip адресом',
+	':field must be the same as :param2' => 'Значение поля :field должно таким же как :param2',
+	':field must be at least :param2 characters long' => 'Значение поля :field должно быть не менее :param2 знаков(а) длиной',
+	':field must be less than :param2 characters long' => 'Значение поля :field должно быть менее :param2 знаков(а)',
+	':field must not be empty' => 'Значение поля :field не должно быть пустым',
+	':field must be numeric' => 'Значение поля :field должно числовым',
+	':field must be a phone number' => 'Значение поля :field должно представлять номер телефона',
+	':field must be within the range of :param2 to :param3' => 'Значение поля :field должно быть в пределах от :param2 до :param3',
+	':field does not match the required format' => 'Значение поля :field должно быть в указанном формате',
+	':field must be a url' => 'Значение поля :field должно представлять правильный url адрес',
+);
