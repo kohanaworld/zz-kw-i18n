@@ -10,6 +10,7 @@ return array(
 	':field must be a decimal with :param2 places' => 'Значение поля `:field` должно содержать десятичное число с коичеством знаков равным :param2',
 	':field must be a digit' => 'Значение поля `:field` должно содержать цифры',
 	':field must be a email address' => 'Значение поля `:field` должно содержать правильны email адрес',
+	':field must be an email address' => 'Значение поля `:field` должно содержать правильны email адрес',
 	':field must contain a valid email domain' => 'Значение поля `:field` должно содержать корректный email домен',
 	':field must equal :param2' => 'Значение поля `:field` должно быть равным :param2',
 	':field must be exactly :param2 characters long' => 'Значение поля `:field` должно содержать ровно :param2 знак(а,ов)',
