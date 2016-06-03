@@ -1,0 +1,17 @@
+{
+	"name": "kohana-world/kw-i18n",
+	"type": "kohana-module",
+	"description": "i18n for kohana3",
+	"keywords": ["kohana", "i18n"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Sergey Gladkovskiy",
+			"role": "Author"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"composer/installers": "*"
+	}
+}
